@@ -1,0 +1,11 @@
+{
+  "domain": "tuya_climate",
+  "name": "Tuya climate platfrom",
+  "documentation": "https://github.com/custom-components/climate.e_thermostaat",
+  "dependencies": [],
+  "requirements": ["pytuya==7.0.5"],
+  "codeowners": [
+    "@TheSDTM"
+  ],
+  "homeassistant": "0.96.0"
+}

@@ -1,0 +1,1 @@
+"""Tuya climate init file"""
